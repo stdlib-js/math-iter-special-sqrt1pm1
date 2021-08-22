@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-iter-special-sqrt1pm1",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Create an iterator which computes `sqrt(1+x) - 1` for each iterated value.",
   "license": "Apache-2.0",
   "author": {
