@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/math-iter-special-sqrt1pm1",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes `sqrt(1+x) - 1` for each iterated value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-sqrt1pm1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.sqrt",
+    "sqrt",
+    "sqrt1pm1",
+    "principal",
+    "square",
+    "root",
+    "power",
+    "number",
+    "small",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
